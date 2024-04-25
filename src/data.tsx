@@ -32,14 +32,14 @@ export const projects=[
   
    
     {
-        title: 'Medical Advisory',
-        subtitle: 'MERN stack',
-        description: 'Provides  healthcare information, enabling users to manage their health and well-being conveniently and securely. ',
-        image: '/static/images/doctor.png',
+        title: 'Carbon FootPrint App',
+        subtitle: 'ASP.NET, HTML, CSS and JS ',
+        description: 'provide a user-friendly tool for calculating the carbon footprint. ',
+        image: '/static/images/carbon.png',
         url: '/',
         btn1: 'Ongoing',
         btn2: 'Github',
-        github: 'https://github.com/Teddydesta/my-Portfolio.git'
+        github: 'https://github.com/Teddydesta/EcoImpactAfrica.git'
     },
 ]
 
